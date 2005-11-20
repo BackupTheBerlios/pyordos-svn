@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agent id="">
+	<name></name>
+	<type></type>
+	<properties>
+		<cpu></cpu>
+		<mem></mem>
+		<disk></disk>
+		<net></net>
+	</properties>	
+</agent>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="">
+	<name></name>
+	<command></command>
+	<needs>
+		<cpu util="" />
+		<mem util="" />
+		<disk space="" speed="" />
+		<net util="" />
+	</needs>
+	<dependencies>
+		<dependency id="">
+			<returncondition compare="" value="" />
+		</dependency>
+	</dependencies>
+</task>

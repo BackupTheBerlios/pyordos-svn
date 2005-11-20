@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t4">
+	<name>Premier traitement</name>
+	<command>test_job.py 9</command>
+	<needs>
+		<cpu util="false" />
+		<mem util="false" />
+		<disk space="false" speed="false" />
+		<net util="false" />
+	</needs>
+</task>

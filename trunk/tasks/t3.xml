@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t3">
+	<name>Second traitement</name>
+	<command>test_job.py 12</command>
+	<needs>
+		<cpu util="false" />
+		<mem util="false" />
+		<disk space="false" speed="false" />
+		<net util="false" />
+	</needs>
+	<dependencies>
+		<dependency id="t2">
+			<returncondition compare="eq" value="1" />
+<!--			<returncondition compare="ne" value="1" />-->
+		</dependency>
+	</dependencies>
+</task>

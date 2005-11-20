@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agent id="maelle">
+	<name>maelle</name>
+	<type>station</type>
+	<properties>
+		<cpu></cpu>
+		<mem></mem>
+		<disk></disk>
+		<net></net>
+	</properties>	
+</agent>
